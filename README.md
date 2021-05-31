@@ -1,6 +1,6 @@
 # Hello 👋 I'm Bogumił.
 I’m a Front End Developer based in Katowice, PL and interested in modern web technologies. <br />
-My main technology is <strong>React JS.</strong> <br /><br />
+My main technologies are <strong>React & Angular.</strong> <br /><br />
 You can find my portfolio at: https://bogumilmorawski.com/
 <br />
 ### Tools I use:
